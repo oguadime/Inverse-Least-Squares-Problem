@@ -29,8 +29,8 @@ Each script is self-contained. To use the main solver, execute `lab1.m` in MATLA
 Example:
 
 ```matlab
-% Run the lab1 script to solve the system
-lab1
+% Run the MassSpringDashpot script to solve the system
+MassSpringDashpot
 ```
 
 For parameter estimation:
